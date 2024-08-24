@@ -29,13 +29,13 @@ The community DAO voted in favour of the proposed [general principles under whic
 The Hack Juno SubDAO has been officially been instantiated. It's purpose is to organize and run Hack Juno. You can view the DAO [here](https://daodao.zone/dao/juno1q7ufzamrmwfw4w35azzkcxd5l44vy8zngm9ufcgryk2dt8clqznsp88lhd).
 
 It's members consist of:
-- [Jake Hartnell (Core 1 / DAO DAO)](https://twitter.com/JakeHartnell)
-- [Kevin Garrison (Oni Validator / Terra Dev Fund)](https://twitter.com/KevinGarrison)
-- [Max Juno (Wombat)](https://twitter.com/max_maxsolo)
-- [Amber Case (DAO DAO / Earth+)](https://twitter.com/caseorganic)
-- [Nullmames (Kingnodes / Juno Contributor)](https://twitter.com/nullMames)
-- [Julius Lattke (Interchain UX Designer and founder of DesignDAO)](https://twitter.com/JuliusLattke)
-- [Dylan Schultzie (Lavender.Five Nodes)](https://twitter.com/dylanschultzie)
+- [Jake Hartnell (Core 1 / DAO DAO)](https://x.com/JakeHartnell)
+- [Kevin Garrison (Oni Validator / Terra Dev Fund)](https://x.com/KevinGarrison)
+- [Max Juno (Wombat)](https://x.com/max_maxsolo)
+- [Amber Case (DAO DAO / Earth+)](https://x.com/caseorganic)
+- [Nullmames (Kingnodes / Juno Contributor)](https://x.com/nullMames)
+- [Julius Lattke (Interchain UX Designer and founder of DesignDAO)](https://x.com/JuliusLattke)
+- [Dylan Schultzie (Lavender.Five Nodes)](https://x.com/dylanschultzie)
 
 Members of the Hack Juno SubDAO will not be eligible for receiving Hack Juno prizes. Organizing and running Hack Juno will be at the descretion of the SubDAO, including decisions with regard to prizes and their amounts.
 
@@ -58,7 +58,7 @@ The process is simple:
 5. Judges evaluate your project and vote.
 6. Rewards will paid out in batches by the Hack Juno SubDAO.
 
-The Hack Juno SubDAO may modify this process at any time should the need arise. Any modifications will be communicated via the Hack Juno [Twitter account](https://twitter.com/HackJuno). 
+The Hack Juno SubDAO may modify this process at any time should the need arise. Any modifications will be communicated via the Hack Juno [X (Twitter) account](https://x.com/HackJuno). 
 
 ## F.A.Q
 
